@@ -1,0 +1,211 @@
+* {
+    box-sizing: border-box;
+}
+
+
+#container {
+    margin: auto auto;
+    text-align: center;
+    width: 1150px;
+    height: auto;
+    font-family: 'Roboto', sans-serif;
+    line-height: 26px;
+    margin-top: -10px;
+    margin-bottom: -10px;
+    
+}
+
+#header {
+    width: 1150px;
+    background: #EEEFF1;
+    padding-bottom: 100px;
+}
+
+.container-1 {
+    width: 650px;
+    padding-top: 79px;
+    padding-right: 20px;
+}
+
+#homepage {
+    color: #34547A;
+}
+
+a {
+    color: black;
+    margin-right: 20px;
+    text-decoration: none;
+    letter-spacing: 0.1em;
+}
+
+.block2 {
+    width: 1150px;
+    background: #EEEFF1;
+    padding-top: 10px;
+
+}
+
+.container-2 {
+    width: 800px;
+    padding-bottom: 140px;
+}
+
+.design {
+    width: 560px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+h1 {
+    padding-bottom: 50px;
+    font-size: 48px;
+    font-weight: 500;
+}
+
+#p1 {
+    padding-bottom: 50px;
+    color: #727272;
+}
+
+
+.link {
+    width: 225px;
+    height: 65px;
+    background: #34547A;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#writeme {
+    color: white;
+    letter-spacing: 0.1em;
+}
+
+
+.aboutme {
+    width: 1150px;
+    background: #FFFFFF;
+    padding-top: 20px;
+}
+
+.container-3 {
+    width: 540px;
+    margin: auto;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: 500;
+}
+
+#about {
+    color: #727272;
+}
+
+.icons {
+    width: 1150px;
+    margin: auto;
+    background: #34547A;
+}
+
+.container-4 {
+    width: 1110px;
+
+    margin: 0;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.item_visual {
+    width: 60px;
+    display: inline-block;
+    margin-right: 0px;
+}
+
+.number {
+    display: block;
+    width: 36px;
+}
+
+.text {
+    display: block;
+    width: 71px;
+    font-size: 16px !important;
+}
+
+.projects {
+    list-style: none;
+    text-align: center;
+    margin-right: 0px;
+}
+
+.projects>li {
+    display: inline-block;
+    padding: 20px;
+}
+
+.img,
+.item-content {
+    display: inline-block
+}
+
+.item-content {
+    color: #EEEFF1;
+}
+
+
+
+.item-content>span {
+    font-size: 21px;
+    padding-top: 10px;
+}
+
+.how {
+    width: 1150px;
+    background: #EEEFF1;
+}
+
+.container-5 {
+    width: 540px;
+    margin: auto;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+h3 {
+    font-size: 32px;
+    font-weight: 500;
+    display: inline-block;
+}
+
+#howp {
+    color: #727272;
+}
+
+.video {
+    padding-bottom: 100px;
+}
+
+.footer {
+    width: 1150px;
+    background: #34547A;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+h4 {
+    color: #FFFFFF;
+    text-align: left;
+    padding-left: 20px;
+    font-size: 21px;
+    font-weight: 500;
+}
+
+.footer>p {
+    color: #FFFFFF;
+    text-align: left;
+    padding-left: 20px;
+    font-size: 13px;
+}
